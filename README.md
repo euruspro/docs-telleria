@@ -36,10 +36,10 @@ El módulo se considera como un listado de naves con despachos en curso que al n
 
 Esta sección contará con 2 guías para la gestión de la DIN, correspondientes a los siguientes módulos operativos:
 
-### Módulo DUS :closed\_book:&#x20;
+{% content-ref url="exportaciones/modulo-dus.md" %}
+[modulo-dus.md](exportaciones/modulo-dus.md)
+{% endcontent-ref %}
 
-Próximamente.. :hourglass\_flowing\_sand:&#x20;
-
-### Certificado SERNAPESCA :closed\_book:&#x20;
-
-Próximamente... :hourglass\_flowing\_sand:&#x20;
+{% content-ref url="exportaciones/certificado-sernapesca.md" %}
+[certificado-sernapesca.md](exportaciones/certificado-sernapesca.md)
+{% endcontent-ref %}
