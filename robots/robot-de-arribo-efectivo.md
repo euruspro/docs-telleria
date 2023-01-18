@@ -23,3 +23,6 @@ Filtra todos los despachos DIN, que:
 3. No  tenga Fecha de Retiro, y
 4. Tenga un número de manifiesto definido.
 
+## ¿Qué hace?
+
+Busca manifiesto por manifiesto en la página de Manifestación Marítima y obtiene todos los datos que la página provee, luego guarda en EURUS todos estos datos y los relacionada con todos los despachos que tengan el mismo número de Manifiesto y que a su vez, sean desapchos DIN.
