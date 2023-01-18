@@ -25,4 +25,9 @@ Filtra todos los despachos DIN, que:
 
 ## ¿Qué hace?
 
-Busca manifiesto por manifiesto en la página de Manifestación Marítima y obtiene todos los datos que la página provee, luego guarda en EURUS todos estos datos y los relacionada con todos los despachos que tengan el mismo número de Manifiesto y que a su vez, sean desapchos DIN.
+Busca manifiesto por manifiesto en la página de Manifestación Marítima y obtiene todos los datos que la página provee, luego guarda en EURUS todos estos datos y los relacionada con todos los despachos que tengan el mismo número de Manifiesto y que a su vez, sean despachos DIN.
+
+Además, el robot ejecuta las siguientes acciones:
+
+* Crea un evento **ED9002 - FECHA ARRIBO EFECTIVO** solo si encuentra una fecha definida en la página de la aduana.
+
