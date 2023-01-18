@@ -16,4 +16,10 @@ El robot, se ejecuta cada 5 minutos de Lunes a Domingo.
 
 ## ¿Que busca?
 
-Filtra todos los despachos DIN, que tenga como Código de Vía de transporte el "01", no tenga Fecha de Arribo y No  tenga fea de Retiro.
+Filtra todos los despachos DIN, que:
+
+1. Tenga el Código de Vía de transporte  "01",&#x20;
+2. No tenga Fecha de Arribo,
+3. No  tenga Fecha de Retiro, y
+4. Tenga un número de manifiesto definido.
+
