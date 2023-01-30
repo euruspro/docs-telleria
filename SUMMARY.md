@@ -15,8 +15,8 @@
 ## Robots&#x20;
 
 * [Robot de Arribo Efectivo](robots/robot-de-arribo-efectivo.md)
-* [PRUEBA TELLERIA](robots/prueba-telleria.md)
 
 ## Sección Documental
 
-* [Módulo Gestión Documental](seccion-documental/modulo-gestion-documental.md)
+* [Módulo Gestión Documental](seccion-documental/modulo-gestion-documental/README.md)
+  * [Estado DIN Finalizada (Retiro)](seccion-documental/modulo-gestion-documental/estado-din-finalizada-retiro.md)
