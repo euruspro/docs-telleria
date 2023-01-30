@@ -17,6 +17,6 @@
 * [Robot de Arribo Efectivo](robots/robot-de-arribo-efectivo.md)
 * [PRUEBA TELLERIA](robots/prueba-telleria.md)
 
-## Group 1
+## Sección Documental
 
-* [Page 1](group-1/page-1.md)
+* [Page 1](seccion-documental/page-1.md)
