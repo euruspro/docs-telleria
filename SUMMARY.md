@@ -19,4 +19,4 @@
 
 ## Sección Documental
 
-* [Page 1](seccion-documental/page-1.md)
+* [Módulo Gestión Documental](seccion-documental/modulo-gestion-documental.md)
