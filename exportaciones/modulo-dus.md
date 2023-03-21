@@ -33,3 +33,32 @@ A continuación se muestra una tabla con los estados que se le van asignando a l
 A continuación se muestra una tabla con los estados que resultan, luego de que el robot calcula las combinaciones de los estados de los registros.
 
 <table><thead><tr><th>Estado Documental</th><th>Descripción</th><th data-hidden></th></tr></thead><tbody><tr><td>Sin Documentos</td><td>No hay documentos cargados a los registros</td><td></td></tr><tr><td>Documentos No Conforme</td><td>No hay registros en el estado Por Recibir y existe al menos un registro en el estado No Conforme</td><td></td></tr><tr><td>Documentos En Revisión</td><td>No hay registros en el estado Por Recibir, no hay registros en el estado No Conforme y al menos hay un registro en el estado Por Revisar</td><td></td></tr><tr><td>Documentos Incompletos</td><td>Los registros tienen documentos cargados pero existe al menos un registro en el estado Por Recibir</td><td></td></tr><tr><td>Documentos Completos</td><td>Todos los registros deben estar en el estado Conforme</td><td></td></tr></tbody></table>
+
+#### Cómo cargar un archivo en un registro para la gestión documental
+
+La forma de cargar un archivo al registro puede ser de varias maneras, por registro, desplazando el documento o por carga masiva de documentos.
+
+<mark style="color:blue;">Por Registro</mark>
+
+1. Pinchar el registro.
+2. Seleccionar el campo archivo
+3. Subir el archivo
+
+<mark style="color:blue;">Desplazando el documento</mark>
+
+1. Teniendo el documento en el escritorio, disminuir el tamaño de la pantalla de la plataforma de EURUS y arrastrar el documento que está en el escritorio, al ícono de nube. Con ello se carga el documento en el registro.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Si el registro no está creado, se puede arrastrar al ícono ![](<../.gitbook/assets/image (3).png>) y con eso se carga el registro junto con el documento.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:blue;">Carga Masiva</mark>
+
+1. Disminuir el tamaño de la pantalla de la plataforma EURUS y seleccionar los archivos que desea cargar, que se encuentran en el escritorio.
+2. Arrastrar esos documentos y llevarlos al ícono <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> con ello se cargan todos los registros con su respectivo documento.
+
+{% hint style="info" %}
+Todos los documentos cargados, quedarán en el Estado Documento "Por Revisar".
+{% endhint %}
