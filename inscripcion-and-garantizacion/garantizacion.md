@@ -13,7 +13,13 @@
 4. La fecha de retiro no debe estar definida.
 5. El despacho debe implicar un retiro.
 
+{% hint style="warning" %}
+**Advertencia**
+
 En caso de que alguno de los criterios anteriores cambie o deje de cumplir las condiciones, el despacho ya **no requerirá proceso de Garantización**.
+{% endhint %}
+
+
 
 ### Estados de la Garantización
 
