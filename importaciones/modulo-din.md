@@ -126,3 +126,10 @@ Para las siguientes definiciones **las sucursales se consideran como grupos.** L
 | **DIN en Curso**                   | Despachos del grupo con estado diferente a "Finalizada" y "DIN Anulada"                                         |
 | **DIN Finalizadas**                | Despachos del grupo con estados "Finalizada".                                                                   |
 | **DIN Anuladas**                   | Despachos del grupo con estado DIN Anulada.                                                                     |
+
+### Gestión Documental
+
+Dentro del módulo DIN se encuentra el módulo Documentos donde se realiza toda la gestión documental del despacho, cuyo estado documental resulta de las combinaciones de los estados de los registros, según lo definido por la agencia.
+
+A continuación se muestra una tabla con los estados que se le van asignando a los registros
+
