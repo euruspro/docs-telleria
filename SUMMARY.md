@@ -12,6 +12,10 @@
 * [Módulo DUS](exportaciones/modulo-dus.md)
 * [Certificado SERNAPESCA](exportaciones/certificado-sernapesca.md)
 
+## Inscripción & Garantización
+
+* [Garantización](inscripcion-and-garantizacion/garantizacion.md)
+
 ## Robots&#x20;
 
 * [Robot de Arribo Efectivo](robots/robot-de-arribo-efectivo.md)
