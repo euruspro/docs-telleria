@@ -38,4 +38,5 @@ En caso de que alguno de los criterios anteriores cambie o deje de cumplir las c
 
 1. Se verifica que la cantidad Garantizada, sea menor o igual a la cantidad pendiente de Garantizar, en caso contrario, rechaza el registro.
 2. Si el registro es del estado Carta Garantía, Garantizado o SOC, se valida que el registro tenga un comprobante cargado, en caso contrario lo rechaza.
+3. Al asignar o modificar un estado de garantización, se replica el estado y el registro de garantización a los despachos parciales, si es que aplica
 

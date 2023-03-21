@@ -15,6 +15,7 @@
 ## Inscripción & Garantización
 
 * [Garantización](inscripcion-and-garantizacion/garantizacion.md)
+* [Inscripción](inscripcion-and-garantizacion/inscripcion.md)
 
 ## Robots&#x20;
 
