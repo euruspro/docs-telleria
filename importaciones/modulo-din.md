@@ -109,19 +109,20 @@ Existen vistas definidas de acuerdo al perfil del usuario, cuya funcionalidad es
 Para las siguientes definiciones **las sucursales se consideran como grupos.** Las únicas vistas que no consideran las sucursales son "Mis DIN Pendientes" y "Pendientes del Grupo".
 {% endhint %}
 
-| Vista                         | Definición                                                                                                      |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **Mis DIN Pendientes**        | Despachos asignados al usuario.                                                                                 |
-| **Pendientes del Grupo**      | Despachos a cargo del grupo del usuario.                                                                        |
-| **Pendientes En Ejecutivos**  | Despachos del grupo con estado Documentos en Revisión o Documentos Incompletos.                                 |
-| **Pendientes En Pedidores**   | Despachos del grupo con estado Pendiente Presentación DIN, Pendiente Aceptación DIN o Rechazado Sistema Aduana. |
-| **Pendientes de Retiro**      | Despachos del grupo con estado Pendiente Retiro.                                                                |
-| **Pendientes Pago Impuestos** | Despachos del grupo con estado Pendiente Pago Impuestos (GCP).                                                  |
-| **Pendientes UyD SEREMI**     | Despachos del grupo con estado Pendiente UyD SEREMI.                                                            |
-| **DIN en Curso**              | Despachos del grupo con estado diferente a "Finalizada" y "DIN Anulada"                                         |
-| **DIN Finalizadas**           | Despachos del grupo con estados "Finalizada".                                                                   |
-| **DIN Anuladas**              | Despachos del grupo con estado DIN Anulada.                                                                     |
-
-{% hint style="info" %}
-Recuerde que el Estado DIN **Documentos Incompletos** aún no se encuentra operativo.
-{% endhint %}
+| Vista                              | Definición                                                                                                      |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Mis DIN Pendientes**             | Despachos asignados al usuario.                                                                                 |
+| **Pendientes del Grupo**           | Despachos a cargo del grupo del usuario.                                                                        |
+| **Pendientes En Ejecutivos**       | Despachos del grupo con estado Documentos en Revisión o Documentos Incompletos.                                 |
+| **Pendientes En Pedidores**        | Despachos del grupo con estado Pendiente Presentación DIN, Pendiente Aceptación DIN o Rechazado Sistema Aduana. |
+| **Pendientes Inscripción**         | Despachos del grupo con estado Por Corregir Inscripción, Por Inscribir Directo, Por Inscribir Pronto Directo    |
+| **Pendientes Garantización**       | Despachos del grupo con estado Por Garantizar, Por Corregir Garantía                                            |
+| **Pendientes Aforo**               | Despachos del grupo con estado Aforo Pendiente                                                                  |
+| **Pendientes de Retiro**           | Despachos del grupo con estado Pendiente Retiro.                                                                |
+| **Pendientes Pago Impuestos**      | Despachos del grupo con estado Pendiente Pago Impuestos (GCP).                                                  |
+| **Pendientes Pago Imptos/Agencia** | Despachos del grupo con estado Pendiente Pago Impuestos (GCP)por parte de la Agencia.                           |
+| **Pendientes Pago Imptos/Cliente** | Despachos del grupo con estado Pendiente Pago Impuestos (GCP) por parte del Cliente                             |
+| **Pendientes UyD SEREMI**          | Despachos del grupo con estado Pendiente UyD SEREMI.                                                            |
+| **DIN en Curso**                   | Despachos del grupo con estado diferente a "Finalizada" y "DIN Anulada"                                         |
+| **DIN Finalizadas**                | Despachos del grupo con estados "Finalizada".                                                                   |
+| **DIN Anuladas**                   | Despachos del grupo con estado DIN Anulada.                                                                     |
