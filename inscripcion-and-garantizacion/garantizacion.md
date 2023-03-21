@@ -26,7 +26,6 @@ En caso de que alguno de los criterios anteriores cambie o deje de cumplir las c
 | Carga Break Bulk        |                                                                                                                                                                                                                                            |
 | Anulado                 |                                                                                                                                                                                                                                            |
 | Por Corregir Garantía   | <p>Se asigna este estado de manera automática, cuando el despacho cambia de <strong>Nombre de Nave, Puerto de Desembarque o Tipo de Bulto</strong>. <br><br><strong>NOTA</strong>: Este estado también puede ser asignado manualmente.</p> |
-|                         |                                                                                                                                                                                                                                            |
 | Rechazado               | Estado que se asigna cuando se crea un registro y el sistema lo rechaza por no cumplir con los criterios de asignación                                                                                                                     |
 
 ### Criterios de asignación de Estado Garantización
