@@ -1,2 +1,2 @@
-# AFORO DIN
+# Aforo DIN
 

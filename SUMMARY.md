@@ -17,10 +17,10 @@
 * [Garantización](inscripcion-and-garantizacion/garantizacion.md)
 * [Inscripción](inscripcion-and-garantizacion/inscripcion.md)
 
+## AFOROS
+
+* [Aforo DIN](aforos/aforo-din.md)
+
 ## Robots&#x20;
 
 * [Robot de Arribo Efectivo](robots/robot-de-arribo-efectivo.md)
-
-## AFOROS
-
-* [AFORO DIN](aforos/aforo-din.md)
