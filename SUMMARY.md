@@ -20,3 +20,7 @@
 ## Robots&#x20;
 
 * [Robot de Arribo Efectivo](robots/robot-de-arribo-efectivo.md)
+
+## Group 1
+
+* [AFOROS](group-1/aforos.md)
