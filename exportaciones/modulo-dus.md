@@ -48,9 +48,9 @@ La forma de cargar un archivo al registro puede ser de varias maneras, por regis
 
 1. Teniendo el documento en el escritorio, disminuir el tamaño de la pantalla de la plataforma de EURUS y arrastrar el documento que está en el escritorio, al ícono de nube. Con ello se carga el documento en el registro.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Si el registro no está creado, se puede arrastrar al ícono ![](<../.gitbook/assets/image (3) (1).png>) y con eso se carga el registro junto con el documento.
+Si el registro no está creado, se puede arrastrar al ícono ![](<../.gitbook/assets/image (3).png>) y con eso se carga el registro junto con el documento.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

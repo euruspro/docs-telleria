@@ -16,4 +16,4 @@ Los datos se consultan en la página web: h[ttp://comext.aduana.cl:7001/Despacha
 
 ### Vistas
 
-<table><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th>Vista</th><th>Estado</th><th data-hidden></th></tr></thead><tbody><tr><td>Aforos Pendientes</td><td>Aforo Pendiente</td><td></td></tr><tr><td>Aforos Realizados</td><td>Aforo Realizado AS, Aforo Realizado con Obs No As, Aforo Realizado sin Obs No AS, Aforo Realizado con Obs AS, Finalización Manual Aforo, Aforo Realizado</td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
