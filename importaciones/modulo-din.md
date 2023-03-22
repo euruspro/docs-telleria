@@ -139,4 +139,5 @@ A continuación se muestra una tabla con los estados que se le van asignando a l
 | Conforme            | Aplica a los registros que se encuentran validados por el ejecutivo y están aprobados.                    |
 | No conforme         | Aplica para los registros que tras ser revisados por el ejecutivo, se encuentran rechazados.              |
 | Doc. Complementario | No influye en el estado documental                                                                        |
+| Carpeta Electrónica | Todo registro que es creado desde carpeta electrónica.                                                    |
 
