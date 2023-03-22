@@ -21,6 +21,6 @@
 
 * [Robot de Arribo Efectivo](robots/robot-de-arribo-efectivo.md)
 
-## Group 1
+## AFOROS
 
-* [AFOROS](group-1/aforos.md)
+* [AFORO DIN](aforos/aforo-din.md)
