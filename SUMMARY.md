@@ -20,6 +20,7 @@
 ## AFOROS
 
 * [Aforo DIN](aforos/aforo-din.md)
+* [Aforo DUS](aforos/aforo-dus.md)
 
 ## Robots&#x20;
 
