@@ -133,3 +133,10 @@ Dentro del módulo DIN se encuentra el módulo Documentos donde se realiza toda 
 
 A continuación se muestra una tabla con los estados que se le van asignando a los registros
 
+| Estado Documento    | Descripción                                                                                               |
+| ------------------- | --------------------------------------------------------------------------------------------------------- |
+| Por Revisar         | Aplica a los registros que se les ha cargado un documento, pero no ha sido validado aún por el ejecutivo. |
+| Conforme            | Aplica a los registros que se encuentran validados por el ejecutivo y están aprobados.                    |
+| No conforme         | Aplica para los registros que tras ser revisados por el ejecutivo, se encuentran rechazados.              |
+| Doc. Complementario | No influye en el estado documental                                                                        |
+
