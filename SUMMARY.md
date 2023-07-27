@@ -25,3 +25,7 @@
 ## Robots&#x20;
 
 * [Robot de Arribo Efectivo](robots/robot-de-arribo-efectivo.md)
+
+## Solicitudes de Certificación
+
+* [Certificación SERNAPESCA](solicitudes-de-certificacion/certificacion-sernapesca.md)
