@@ -27,7 +27,7 @@ Si la agrupación de despachos carece de Nave, Manifiesto o Puerto de Desembarqu
 
 ### Control de frecuencia de actualización de la Fecha ETA&#x20;
 
-En el campo **Días Última Act.** se visualiza los días transcurridos desde la última actualización de la Fecha ETA. **** El campo se destaca con color de acuerdo a los siguientes parámetros:
+En el campo **Días Última Act.** se visualiza los días transcurridos desde la última actualización de la Fecha ETA. El campo se destaca con color de acuerdo a los siguientes parámetros:
 
 * **Verde,** si no ha transcurrido un día desde la última actualización.
 * **Rosado,** si ha transcurrido más de 1 día desde la última actualización.

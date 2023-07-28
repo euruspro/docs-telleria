@@ -40,6 +40,6 @@ Esta sección contará con 2 guías para la gestión de la DIN, correspondientes
 [modulo-dus.md](exportaciones/modulo-dus.md)
 {% endcontent-ref %}
 
-{% content-ref url="exportaciones/certificado-sernapesca.md" %}
-[certificado-sernapesca.md](exportaciones/certificado-sernapesca.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
