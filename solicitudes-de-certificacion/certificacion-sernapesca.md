@@ -21,7 +21,13 @@ description: >-
 {% hint style="warning" %}
 <mark style="color:orange;">**Advertencia!**</mark>
 
+**Despachos con Vía Marítima**
+
 Una solicitud de certificación SERNAPESCA solo debe iniciarse con **Fecha de Zarpe Efectiva** y con la **instrucción entregada del cliente**.
+
+**Otros Depachos**
+
+Solo requiere la instrucción entregada por parte del Cliente.
 {% endhint %}
 
 
