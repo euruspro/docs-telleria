@@ -52,7 +52,7 @@ La forma de cargar un archivo al registro puede ser de varias maneras, por regis
 
 Si el registro no está creado, se puede arrastrar al ícono ![](<../.gitbook/assets/image (3) (1).png>) y con eso se carga el registro junto con el documento.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">Carga Masiva</mark>
 
